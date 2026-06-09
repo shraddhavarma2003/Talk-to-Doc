@@ -93,21 +93,4 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙋 Support
-
-- 📧 **Email**: [your-email@example.com]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/shraddhavarma2003/Talk-to-Doc/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/shraddhavarma2003/Talk-to-Doc/discussions)
-
-## 📊 Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/shraddhavarma2003/Talk-to-Doc)
-![GitHub last commit](https://img.shields.io/github/last-commit/shraddhavarma2003/Talk-to-Doc)
-
 ---
-
-⭐ **Star this repo** if you find it useful!
